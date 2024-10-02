@@ -1,0 +1,167 @@
+{
+    "data": {
+        "description": "ExpressionSet using StringTie",
+        "items": [
+            {
+                "label": "NP_10m",
+                "ref": "163992/103/2"
+            },
+            {
+                "label": "NP_10m",
+                "ref": "163992/105/2"
+            },
+            {
+                "label": "NP_10m",
+                "ref": "163992/102/2"
+            },
+            {
+                "label": "N_10m",
+                "ref": "163992/109/2"
+            },
+            {
+                "label": "N_10m",
+                "ref": "163992/106/2"
+            },
+            {
+                "label": "N_10m",
+                "ref": "163992/104/2"
+            },
+            {
+                "label": "NP_1hr",
+                "ref": "163992/112/2"
+            },
+            {
+                "label": "NP_1hr",
+                "ref": "163992/108/2"
+            },
+            {
+                "label": "NP_1hr",
+                "ref": "163992/107/2"
+            },
+            {
+                "label": "N_1hr",
+                "ref": "163992/115/2"
+            },
+            {
+                "label": "N_1hr",
+                "ref": "163992/113/2"
+            },
+            {
+                "label": "N_1hr",
+                "ref": "163992/114/2"
+            }
+        ]
+    },
+    "info": [
+        137,
+        "NC_pst_correctconditions_expression_set",
+        "KBaseSets.ExpressionSet-1.2",
+        "2023-11-30T04:36:06+0000",
+        1,
+        "frances_stark",
+        163992,
+        "frances_stark:narrative_1701121712582",
+        "c54a871406e07b447d23992a648a89fe",
+        531,
+        {
+            "item_count": "12",
+            "description": "ExpressionSet using StringTie"
+        }
+    ],
+    "path": [
+        "163992/137/1"
+    ],
+    "provenance": [
+        {
+            "service": "SetAPI",
+            "method": "save_expression_set_v1",
+            "method_params": [
+                {
+                    "workspace": "frances_stark:narrative_1701121712582",
+                    "output_object_name": "NC_pst_correctconditions_expression_set",
+                    "data": {
+                        "description": "ExpressionSet using StringTie",
+                        "items": [
+                            {
+                                "ref": "163992/103/2",
+                                "label": "NP_10m"
+                            },
+                            {
+                                "ref": "163992/105/2",
+                                "label": "NP_10m"
+                            },
+                            {
+                                "ref": "163992/102/2",
+                                "label": "NP_10m"
+                            },
+                            {
+                                "ref": "163992/109/2",
+                                "label": "N_10m"
+                            },
+                            {
+                                "ref": "163992/106/2",
+                                "label": "N_10m"
+                            },
+                            {
+                                "ref": "163992/104/2",
+                                "label": "N_10m"
+                            },
+                            {
+                                "ref": "163992/112/2",
+                                "label": "NP_1hr"
+                            },
+                            {
+                                "ref": "163992/108/2",
+                                "label": "NP_1hr"
+                            },
+                            {
+                                "ref": "163992/107/2",
+                                "label": "NP_1hr"
+                            },
+                            {
+                                "ref": "163992/115/2",
+                                "label": "N_1hr"
+                            },
+                            {
+                                "ref": "163992/113/2",
+                                "label": "N_1hr"
+                            },
+                            {
+                                "ref": "163992/114/2",
+                                "label": "N_1hr"
+                            }
+                        ]
+                    },
+                    "genome_ref": null
+                }
+            ],
+            "input_ws_objects": [],
+            "resolved_ws_objects": [],
+            "intermediate_incoming": [],
+            "intermediate_outgoing": [],
+            "external_data": [],
+            "subactions": [],
+            "custom": {}
+        }
+    ],
+    "creator": "frances_stark",
+    "orig_wsid": 163992,
+    "created": "2023-11-30T04:36:06+0000",
+    "epoch": 1701318966495,
+    "refs": [
+        "163992/107/2",
+        "163992/108/2",
+        "163992/109/2",
+        "163992/114/2",
+        "163992/103/2",
+        "163992/104/2",
+        "163992/115/2",
+        "163992/105/2",
+        "163992/106/2",
+        "163992/112/2",
+        "163992/113/2",
+        "163992/102/2"
+    ],
+    "copy_source_inaccessible": 0,
+    "extracted_ids": {}
+}
